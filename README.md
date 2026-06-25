@@ -36,5 +36,4 @@ INSERT INTO public.tb_game (cont,create_by,home,away,home_score,away_score,home_
 	 ('제1경기 2026-06-12(금) 대한민국 VS 체코','2026-06-10 23:20:45.464376','대한민국','체코','1','2','flag-kor.png','flag-cze.png','2026-06-12 10:00:00','N');
 
 
-
 ```
